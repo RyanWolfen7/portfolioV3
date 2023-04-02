@@ -14,7 +14,7 @@ const Navbar = () => {
             <div class="navbar-wrapper">
                 <div class="name-container">
                     <h1> Ryan Clark </h1>
-                    <h3> Full Stack Developer </h3>
+                    <h3> Web Professional </h3>
                 </div>
                 <button type="button" class="hamburger" onClick={() => setOpen(!open)}>
                     <svg viewBox="0 0 100 80" width="40" height="40">

@@ -3,7 +3,6 @@
     color: #ffffffff;
     display: inline-flex;
     width: 100%;
-    position: fixed;
     justify-content:space-around;
     padding: 1rem;
     flex-wrap: wrap;
@@ -53,6 +52,7 @@
         display: inline-flex;
         justify-content: space-evenly;
         width: 100%;
+        margin-right: 0;
     }
 
     .link-container .hidden {
